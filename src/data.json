@@ -1,10 +1,10 @@
 {
   "products": [
-    { "id": 1, "name": "Red Tshirt", "price": 8 },
-    { "id": 2, "name": "Green Tshirt", "price": 8 },
-    { "id": 3, "name": "Blue Tshirt", "price": 8 },
-    { "id": 4, "name": "Brown Tshirt", "price": 8 },
-    { "id": 5, "name": "Pink Tshirt", "price": 8 }
+    { "id": 1, "label": "Red Tshirt", "price": 11 },
+    { "id": 2, "label": "Green Tshirt", "price": 12 },
+    { "id": 3, "label": "Blue Tshirt", "price": 13 },
+    { "id": 4, "label": "Brown Tshirt", "price": 14 },
+    { "id": 5, "label": "Pink Tshirt", "price": 15 }
   ],
   "rules": [
     { "qty": 1, "off": 0 },

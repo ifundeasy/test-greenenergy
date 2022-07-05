@@ -16,3 +16,6 @@ npm start
 ```sh
 npm test
 ```
+
+## Screenshots
+![alt text](https://github.com/ifundeasy/test-greenenergy/blob/simple/Screenshot.png?raw=true)
