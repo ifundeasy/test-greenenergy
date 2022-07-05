@@ -1,7 +1,7 @@
 import { CartModel, calculator, changeProducts, changeRules } from './index';
 
 describe('Discount calculator', () => {
-  it('It should not to be equal 51.2 (An example result from Taylor)', function () {
+  it('Best price should to be equal 51.2 (An example result from Taylor)', function () {
     // * We set product price as your example
     changeProducts([
       { id: 1, label: 'Red Tshirt', price: 8 },
