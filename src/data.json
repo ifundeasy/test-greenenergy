@@ -1,0 +1,16 @@
+{
+  "products": [
+    { "id": 1, "name": "Red Tshirt", "price": 8 },
+    { "id": 2, "name": "Green Tshirt", "price": 8 },
+    { "id": 3, "name": "Blue Tshirt", "price": 8 },
+    { "id": 4, "name": "Brown Tshirt", "price": 8 },
+    { "id": 5, "name": "Pink Tshirt", "price": 8 }
+  ],
+  "rules": [
+    { "qty": 1, "off": 0 },
+    { "qty": 2, "off": 5 },
+    { "qty": 3, "off": 10 },
+    { "qty": 4, "off": 20 },
+    { "qty": 5, "off": 25 }
+  ]
+}
